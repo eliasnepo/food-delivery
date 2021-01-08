@@ -1,6 +1,7 @@
 import './styles.css';
 import { ReactComponent as LinkedinIcon} from './Linkedin.svg';
 import { ReactComponent as InstagramIcon} from './Instagram.svg';
+import { ReactComponent as GithubIcon} from './Github.svg';
 
 function Footer() {
     return (
@@ -8,6 +9,7 @@ function Footer() {
             App desenvolvido durante a 2ª ed. do evento <strong>Semana DevSuperior 2.0</strong>
             <div className="footer-icons">
                 <a href="https://www.linkedin.com/in/elias-nepomuceno-232273192/" target="_new"> <LinkedinIcon /> </a>
+                <a href="https://github.com/eliasnepo" target="_new"> <GithubIcon /> </a>
                 <a href="https://www.instagram.com/eliasnepo/" target="_new"> <InstagramIcon /> </a>
             </div>
         </footer>
