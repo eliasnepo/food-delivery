@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center" blank="_new">
-<a href="eliasnepo-sds2.netlify.app">Acessar demonstração</a>
+<a href="https://eliasnepo-sds2.netlify.app">Acessar demonstração</a>
 </h1>
 
 ## 📖 Sobre
@@ -70,7 +70,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Versão web:
 
-<a href="eliasnepo-sds2.netlify.app">Acessar demonstração</a>
+<a href="https://eliasnepo-sds2.netlify.app">Acessar demonstração</a>
 
 ## Mobile:
 
