@@ -1,21 +1,23 @@
 <h1 align="center">
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Logotipo_Yag7Hd8KA.png" />
 </h1>
-<h1 align="center">
+<h3 align="center">
     <img src="https://ik.imagekit.io/b2twgpcgqmc/dsdelivery_huMVzb4Uq.gif" />
     <img src="https://ik.imagekit.io/b2twgpcgqmc/DSDelivery/screen1_-o_U2yYtH.jpg" height="480" width="240" />
     <img src="https://ik.imagekit.io/b2twgpcgqmc/DSDelivery/screen2_h7wsJlJ6v.jpg" height="480" width="240"/>
     <img src="https://ik.imagekit.io/b2twgpcgqmc/DSDelivery/screen3_EYjWAcQfC.jpg" height="480" width="240"/>
-</h1>
+</h3>
 
 ---
 
-<h1 align="center" blank="_new">
-<a href="https://eliasnepo-sds2.netlify.app">Acessar demonstração</a>
-</h1>
+<h3 align="center" blank="_new">
+<a href="https://eliasnepo-sds2.netlify.app"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_acessar-demonstracao__6__h9dnBPWJqT.png" /></a>
+</h3>
+
+---
 
 ## 📖 Sobre
-O **DS Delivery** é um sistema de registro e entregas de pedidos desenvolvido na **Semana DevSuperior 2.0**. 
+O **DS Delivery** é um sistema de registro e entregas de pedidos desenvolvido na **Semana DevSuperior 2.0**. <a href="https://drive.google.com/file/d/1hap9i9fmjv7qI5QpAeAS8sHZJ-6fPUcE/view?usp=sharing">Acessar certificado.</a>
 
 ---
 
@@ -31,11 +33,9 @@ API com quatros métodos:
 
 A API retorna os dados no formato json e o front-web, desenvolvido com o ReactJS, formata os dados e apresenta os dados dinamicamente na SPA (Single-page Application).
 
-<h1 align="center">
+<h3 align="center">
 <img src="https://ik.imagekit.io/b2twgpcgqmc/DSDelivery/modelo-conceitual_47zB06gZR.png" height="330" width="430" />
-</h1>
-
-
+</h3>
 
 ---
 
